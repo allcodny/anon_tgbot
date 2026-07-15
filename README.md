@@ -1,7 +1,7 @@
 # Anonymous Telegram Bot
 
-[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/allcodny/anon_tgbot/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/allcodny/anon_tgbot/blob/master/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en)](https://github.com/allcodny/anon_tgbot/blob/main/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru?color=DCDCDC)](https://github.com/allcodny/anon_tgbot/blob/main/README-ru.md)
 
 A simple Telegram bot for feedback
 
