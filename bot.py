@@ -9,9 +9,9 @@ from aiogram.types import InputMediaPhoto, InputMediaVideo, InputMediaDocument
 
 
 bot = Bot(token="YOUR_TOKEN")
-bot_id = 8801088474
+bot_id = 
 dp = Dispatcher()
-adm = 7845343618
+adm = 
 
 dbconfig = {"host": 'localhost',
                 "user": '',
