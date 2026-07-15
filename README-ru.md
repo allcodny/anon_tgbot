@@ -1,7 +1,7 @@
 # Анонимный Telegram бот
 
-[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/allcodny/anon_tgbot/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/allcodny/anon_tgbot/blob/master/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/allcodny/anon_tgbot/blob/main/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/allcodny/anon_tgbot/blob/main/README-ru.md)
 
 Простой Telegram-бот для обратной связи
 
